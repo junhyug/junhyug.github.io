@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Junhyug Noh"
   avatar           : "/assets/images/junhyug.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Hello."
   location         : "Somewhere"
   email            :
   links:

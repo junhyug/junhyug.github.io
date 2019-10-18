@@ -14,13 +14,27 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+        <h6><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h6>
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+
+        <p>
+          <h5><strong>Ph.D. Candidate</strong></h5>
+          <a href="http://vision.snu.ac.kr/">Vision and Learning Lab</a>
+          <br>
+          <a href="http://cse.snu.ac.kr/en/">Computer Science and Engineering</a>
+          <br>
+          <a href="http://en.snu.ac.kr/">Seoul National University (SNU)</a>
+          <!--<br>-->
+          <!--<a href="/assets/file/CV_junhyug.pdf">[Download CV]</a>-->
+        </p>
+        <ul class="downloads">
+          <a href="/assets/file/CV_junhyug.pdf">Download <strong>CV</strong></a>
+        </ul>
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>

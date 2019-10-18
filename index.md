@@ -15,15 +15,18 @@ layout: default
 * * *
 
 <h4><strong>Ph.D.</strong> <a href="http://en.snu.ac.kr/">Seoul National University</a> </h4>
+* Mar 2015 \~ Current
 * Computer Science and Engineering
 * Advisor: [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/)
 
 <h4><strong>M.S.</strong> <a href="http://en.snu.ac.kr/">Seoul National University</a> </h4>
+* Mar 2013 \~ Feb 2015
 * Computer Science and Engineering
 * Advisor: [Robert Ian McKay](https://researchers.anu.edu.au/researchers/mckay-ri)
 * Thesis: _Machine Learning Models and Missing Data Imputation Methods in Predicting the Progression of IgA Nephropathy_
 
 <h4><strong>B.S.</strong> <a href="http://en.snu.ac.kr/">Seoul National University</a> </h4>
+* Mar 2005 \~ Feb 2013
 * Computer Science and Engineering
 * Statistics (Double Major)
 * Thesis: _Prediction of Customer’s Follow-on Purchase using Ensemble Methods_

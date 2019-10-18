@@ -2,122 +2,49 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 
-[Link to another page](./another-page.html).
+<!--[Link to another page](./another-page.html).-->
 
-There should be whitespace between paragraphs.
+<!--There should be whitespace between paragraphs.-->
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+# Education
 
 * * *
 
-### Here is an unordered list:
+<h4><strong>Ph.D.</strong> <a href="http://en.snu.ac.kr/">Seoul National University</a> </h4>
+* Computer Science and Engineering
+* Advisor: [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+<h4><strong>M.S.</strong> <a href="http://en.snu.ac.kr/">Seoul National University</a> </h4>
+* Computer Science and Engineering
+* Advisor: [Robert Ian McKay](https://researchers.anu.edu.au/researchers/mckay-ri)
+* Thesis: _Machine Learning Models and Missing Data Imputation Methods in Predicting the Progression of IgA Nephropathy_
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<h4><strong>B.S.</strong> <a href="http://en.snu.ac.kr/">Seoul National University</a> </h4>
+* Computer Science and Engineering
+* Statistics (Double Major)
+* Thesis: _Prediction of Customer’s Follow-on Purchase using Ensemble Methods_
 
 
-### Definition lists can be used with HTML syntax.
+# Selected Publications
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+* * *
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+* <strong>Junhyug Noh</strong>, Wonho Bae, Wonhee Lee, Jinhwan Seo and Gunhee Kim, _Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detection_, ICCV 2019.
 
-```
-The final element.
-```
+* Kangil Kim, Dong-Kyun Kim, <strong>Junhyug Noh</strong>, and Minhyeok Kim, _Stable Forecasting of Environmental Time Series via Long Short Term Memory Recurrent Neural Network_, IEEE Access, 2018.
+
+* Kangil Kim, <strong>Junhyug Noh</strong>, Dong-Kyun Kim, and Minhyeok Kim, _Conflict Relaxation of Activation-Based Regularization for Neural Network_, IEEE Access, 2018.
+
+* <strong>Junhyug Noh</strong>, Soochan Lee, Beomsu Kim, and Gunhee Kim, _Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors_, CVPR 2018.
+
+* <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Hajeong Lee, ..., and Yon Su Kim, _A Machine Learning Approach Using Survival Statistics to Predict Graft Survival in Kidney Transplant Recipients: A Multicenter Cohort Study_, Scientific Reports, 2017. (\*: Equal contribution)
+
+* Kyung Don Yoo, Clara Tammy Kim, Myoung-Hee Kim, <strong>Junhyug Noh</strong>, ..., and Jung Pyo Lee, _Superior Outcomes of Kidney Transplantation Compared with Dialysis_, Medicine, 2016.
+
+<!--* <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Hajeong Lee, Dong Ki Kim, Chun Soo Lim, Young-Hoon Kim, Jung Pyo Lee, Gunhee Kim, and Yon Su Kim, _A Machine Learning Approach Using Survival Statistics to Predict Graft Survival in Kidney Transplant Recipients: A Multicenter Cohort Study_, Scientific Reports, 2017. (\*: Equal contribution)-->
+
+<!--* Kyung Don Yoo, Clara Tammy Kim, Myoung-Hee Kim, <strong>Junhyug Noh</strong>, Gunhee Kim, Ho Kim, Jung Nam An, Jae Yoon Park, Hyunjeong Cho, Kyoung Hoon Kim, Hyunwook Kim, Dong-Ryeol Ryu, Dong Ki Kim, Chun Soo Lim, Yon Su Kim, and Jung Pyo Lee, _Superior Outcomes of Kidney Transplantation Compared with Dialysis_, Medicine, 2016.-->

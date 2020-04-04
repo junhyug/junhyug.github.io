@@ -15,7 +15,7 @@ layout: default
 * * *
 
 <h4><strong>Ph.D.</strong> <a href="http://en.snu.ac.kr/">Seoul National University</a> </h4>
-* Mar 2015 \~ Feb 2020 (expected)
+* Mar 2015 \~ Feb 2020
 * Computer Science and Engineering
 * Advisor: [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/)
 * Thesis: _Improving Object Detection in Hard Conditions of Scale, Occlusion and Label_

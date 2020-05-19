@@ -37,6 +37,8 @@ layout: default
 
 * * *
 
+* <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Wonho Bae, ..., and Jung Pyo Lee, _Prediction of the Mortality Risk in Peritoneal Dialysis Patients using Machine Learning Models: A Nation-wide Prospective Cohort in Korea_, Scientific Reports, 2020. (\*: Equal contribution)
+
 * <strong>Junhyug Noh</strong>, Wonho Bae, Wonhee Lee, Jinhwan Seo and Gunhee Kim, _Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detection_, ICCV 2019.
 
 * Kangil Kim, Dong-Kyun Kim, <strong>Junhyug Noh</strong>, and Minhyeok Kim, _Stable Forecasting of Environmental Time Series via Long Short Term Memory Recurrent Neural Network_, IEEE Access, 2018.
@@ -47,7 +49,7 @@ layout: default
 
 * <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Hajeong Lee, ..., and Yon Su Kim, _A Machine Learning Approach Using Survival Statistics to Predict Graft Survival in Kidney Transplant Recipients: A Multicenter Cohort Study_, Scientific Reports, 2017. (\*: Equal contribution)
 
-* Kyung Don Yoo, Clara Tammy Kim, Myoung-Hee Kim, <strong>Junhyug Noh</strong>, ..., and Jung Pyo Lee, _Superior Outcomes of Kidney Transplantation Compared with Dialysis_, Medicine, 2016.
+<!--* Kyung Don Yoo, Clara Tammy Kim, Myoung-Hee Kim, <strong>Junhyug Noh</strong>, ..., and Jung Pyo Lee, _Superior Outcomes of Kidney Transplantation Compared with Dialysis_, Medicine, 2016.-->
 
 <!--* <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Hajeong Lee, Dong Ki Kim, Chun Soo Lim, Young-Hoon Kim, Jung Pyo Lee, Gunhee Kim, and Yon Su Kim, _A Machine Learning Approach Using Survival Statistics to Predict Graft Survival in Kidney Transplant Recipients: A Multicenter Cohort Study_, Scientific Reports, 2017. (\*: Equal contribution)-->
 

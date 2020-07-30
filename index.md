@@ -10,7 +10,7 @@ layout: default
 
 <!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
-<h6>Education</h6>
+<h1>Education</h1>
 
 * * *
 
@@ -33,7 +33,7 @@ layout: default
 * Thesis: _Prediction of Customer’s Follow-on Purchase using Ensemble Methods_
 
 
-<h6>Selected Publications</h6> <h5>(\*: Equal Contribution)</h5>
+<h1>Selected Publications <s>(*: Equal Contribution)</s></h1>
 
 * * *
 

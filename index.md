@@ -20,7 +20,7 @@ layout: default
 </p><p class="indent">
 [07/2020] Our paper on <strong>weakly supervised object localization</strong> is accepted at <a href="https://eccv2020.eu/">ECCV 2020</a>.
 </p><p class="indent">
-[06/2020] We won 1st place at <strong>weakly supervised object localization</strong>, 2nd place at <strong>weakly supervised semantic segmentation</strong> of <a href="https://lidchallenge.github.io/">LID challenge 2020></a>, in conjunction with <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a>.
+[06/2020] We won 1st place at <strong>weakly supervised object localization</strong>, 2nd place at <strong>weakly supervised semantic segmentation</strong> of <a href="https://lidchallenge.github.io/">LID challenge 2020</a>, in conjunction with <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a>.
 </p><p class="indent">
 [04/2020] Our paper on <strong>peritoneal dialysis</strong> is accepted at <a href="https://www.nature.com/srep/">Scientific Reports</a>.
 </p><p class="indent">

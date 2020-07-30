@@ -16,11 +16,16 @@ layout: default
 * * *
 
 <p class="indent">
-[07/2020] Our paper on <strong>Charlson Comorbidity Index (CCI)</strong> is accepted at [Scientific Reports](https://www.nature.com/srep/).<br>
-[07/2020] Our paper on <strong>weakly supervised object localization</strong> is accepted at [ECCV 2020](https://eccv2020.eu/).<br>
-[06/2020] We won 1st place at <strong>weakly supervised object localization</strong>, 2nd place at <strong>weakly supervised semantic segmentation</strong> of [LID challenge 2020](https://lidchallenge.github.io/), in conjunction with [CVPR 2020](http://cvpr2020.thecvf.com/).<br>
-[04/2020] Our paper on <strong>peritoneal dialysis</strong> is accepted at [Scientific Reports](https://www.nature.com/srep/).<br>
-[02/2020] I received SNU CSE best thesis award.<br>
+[07/2020] Our paper on <strong>Charlson Comorbidity Index (CCI)</strong> is accepted at [Scientific Reports](https://www.nature.com/srep/).
+
+[07/2020] Our paper on <strong>weakly supervised object localization</strong> is accepted at [ECCV 2020](https://eccv2020.eu/).
+
+[06/2020] We won 1st place at <strong>weakly supervised object localization</strong>, 2nd place at <strong>weakly supervised semantic segmentation</strong> of [LID challenge 2020](https://lidchallenge.github.io/), in conjunction with [CVPR 2020](http://cvpr2020.thecvf.com/).
+
+[04/2020] Our paper on <strong>peritoneal dialysis</strong> is accepted at [Scientific Reports](https://www.nature.com/srep/).
+
+[02/2020] I received SNU CSE best thesis award.
+
 [07/2019] Our paper on <strong>small object detection</strong> is accepted at [ICCV 2019](http://iccv2019.thecvf.com/).
 </p>
 

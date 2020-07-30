@@ -33,13 +33,13 @@ layout: default
 * Thesis: _Prediction of Customer’s Follow-on Purchase using Ensemble Methods_
 
 
-<h1>Selected Publications <s>(*: Equal Contribution)</s></h1>
+<h1>Selected Publications <small>(*: Equal Contribution)</small></h1>
 
 * * *
 
-* <strong>Junhyug Noh</strong>\*, Wonho Bae\*, and Gunhee Kim. _Rethinking Class Activation Mapping for Weakly Supervised Object Localization_. ECCV 2020. (\*: Equal contribution)
+* <strong>Junhyug Noh</strong>\*, Wonho Bae\*, and Gunhee Kim. _Rethinking Class Activation Mapping for Weakly Supervised Object Localization_. ECCV 2020.
 
-* <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Wonho Bae, ..., and Jung Pyo Lee. _Prediction of the Mortality Risk in Peritoneal Dialysis Patients using Machine Learning Models: A Nation-wide Prospective Cohort in Korea_. Scientific Reports 2020. (\*: Equal contribution)
+* <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Wonho Bae, ..., and Jung Pyo Lee. _Prediction of the Mortality Risk in Peritoneal Dialysis Patients using Machine Learning Models: A Nation-wide Prospective Cohort in Korea_. Scientific Reports 2020.
 
 * <strong>Junhyug Noh</strong>, Wonho Bae, Wonhee Lee, Jinhwan Seo, and Gunhee Kim. _Better to Follow, Follow to Be Better: Towards Precise Supervision of Feature Super-Resolution for Small Object Detection_. ICCV 2019.
 
@@ -49,7 +49,7 @@ layout: default
 
 * <strong>Junhyug Noh</strong>, Soochan Lee, Beomsu Kim, and Gunhee Kim. _Improving Occlusion and Hard Negative Handling for Single-Stage Pedestrian Detectors_. CVPR 2018.
 
-* <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Hajeong Lee, ..., and Yon Su Kim. _A Machine Learning Approach Using Survival Statistics to Predict Graft Survival in Kidney Transplant Recipients: A Multicenter Cohort Study_. Scientific Reports 2017. (\*: Equal contribution)
+* <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Hajeong Lee, ..., and Yon Su Kim. _A Machine Learning Approach Using Survival Statistics to Predict Graft Survival in Kidney Transplant Recipients: A Multicenter Cohort Study_. Scientific Reports 2017.
 
 <!--* Kyung Don Yoo, Clara Tammy Kim, Myoung-Hee Kim, <strong>Junhyug Noh</strong>, ..., and Jung Pyo Lee, _Superior Outcomes of Kidney Transplantation Compared with Dialysis_, Medicine, 2016.-->
 

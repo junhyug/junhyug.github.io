@@ -38,19 +38,19 @@ layout: default
 * Mar 2015 \~ Feb 2020
 * Computer Science and Engineering
 * Advisor: [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/)
-* Thesis: _Improving Object Detection in Hard Conditions of Scale, Occlusion and Label_
+* <p class="thesisindent">Thesis: <i>Improving Object Detection in Hard Conditions of Scale, Occlusion and Label</i></p>
 
 <h4><strong>M.S.</strong> <a href="http://en.snu.ac.kr/">Seoul National University</a> </h4>
 * Mar 2013 \~ Feb 2015
 * Computer Science and Engineering
 * Advisor: [Robert Ian McKay](https://researchers.anu.edu.au/researchers/mckay-ri)
-* Thesis: _Machine Learning Models and Missing Data Imputation Methods in Predicting the Progression of IgA Nephropathy_
+* <p class="thesisindent">Thesis: <i>Machine Learning Models and Missing Data Imputation Methods in Predicting the Progression of IgA Nephropathy</i>
 
 <h4><strong>B.S.</strong> <a href="http://en.snu.ac.kr/">Seoul National University</a> </h4>
 * Mar 2005 \~ Feb 2013
 * Computer Science and Engineering
 * Statistics (Double Major)
-* Thesis: _Prediction of Customer’s Follow-on Purchase using Ensemble Methods_
+* <p class="thesisindent">Thesis: <i>Prediction of Customer’s Follow-on Purchase using Ensemble Methods</i>
 
 
 <h1>Selected Papers <small>(*: Equal Contribution)</small></h1>

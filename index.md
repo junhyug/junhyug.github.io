@@ -16,6 +16,10 @@ layout: default
 * * *
 
 <p class="indent">
+[11/2020] I joined <a href="https://www.llnl.gov/">Lawrence Livermore National Laboratory (LLNL)</a> as a postdoctoral researcher.
+</p><p class="indent">
+[08/2020] I was recognized as an outstanding reviewer of <a href="https://eccv2020.eu/outstanding-reviewers/">ECCV 2020</a>.
+</p><p class="indent">
 [07/2020] Our paper on <strong>Charlson Comorbidity Index (CCI)</strong> is accepted at <a href="https://www.nature.com/srep/">Scientific Reports</a>.
 </p><p class="indent">
 [07/2020] Our paper on <strong>weakly supervised object localization</strong> is accepted at <a href="https://eccv2020.eu/">ECCV 2020</a>.

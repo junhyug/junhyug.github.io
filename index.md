@@ -23,6 +23,7 @@ layout: default
 [03/2022] Our paper on <strong>scene graph generation</strong> is accepted at <a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems">IEEE TNNLS</a>.
 </p><p class="indent">
 [08/2021] I recieved LLNL Computational Engineering Division Recognition Award.
+</p>
 <!--</p><p class="indent">-->
 <!--[11/2020] I joined <a href="https://www.llnl.gov/">Lawrence Livermore National Laboratory (LLNL)</a> as a postdoctoral researcher.-->
 <!--</p><p class="indent">-->
@@ -39,7 +40,6 @@ layout: default
 <!--[02/2020] I received SNU CSE best thesis award.-->
 <!--</p><p class="lastindent">-->
 <!--[07/2019] Our paper on <strong>small object detection</strong> is accepted at <a href="http://iccv2019.thecvf.com/">ICCV 2019</a>.-->
-</p>
 
 
 <h1>Education</h1>

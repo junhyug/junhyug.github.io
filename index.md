@@ -91,6 +91,6 @@ layout: default
 
 <!--* Kyung Don Yoo, Clara Tammy Kim, Myoung-Hee Kim, <strong>Junhyug Noh</strong>, ..., and Jung Pyo Lee, _Superior Outcomes of Kidney Transplantation Compared with Dialysis_, Medicine, 2016.-->
 
-* <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Hajeong Lee, Dong Ki Kim, Chun Soo Lim, Young-Hoon Kim, Jung Pyo Lee, Gunhee Kim, and Yon Su Kim, _A Machine Learning Approach Using Survival Statistics to Predict Graft Survival in Kidney Transplant Recipients: A Multicenter Cohort Study_, Scientific Reports, 2017.
+<!--* <strong>Junhyug Noh</strong>\*, Kyung Don Yoo\*, Hajeong Lee, Dong Ki Kim, Chun Soo Lim, Young-Hoon Kim, Jung Pyo Lee, Gunhee Kim, and Yon Su Kim, _A Machine Learning Approach Using Survival Statistics to Predict Graft Survival in Kidney Transplant Recipients: A Multicenter Cohort Study_, Scientific Reports, 2017.-->
 
 <!--* Kyung Don Yoo, Clara Tammy Kim, Myoung-Hee Kim, <strong>Junhyug Noh</strong>, Gunhee Kim, Ho Kim, Jung Nam An, Jae Yoon Park, Hyunjeong Cho, Kyoung Hoon Kim, Hyunwook Kim, Dong-Ryeol Ryu, Dong Ki Kim, Chun Soo Lim, Yon Su Kim, and Jung Pyo Lee, _Superior Outcomes of Kidney Transplantation Compared with Dialysis_, Medicine, 2016.-->

@@ -42,6 +42,8 @@ layout: default
 <!--[07/2019] Our paper on <strong>small object detection</strong> is accepted at <a href="http://iccv2019.thecvf.com/">ICCV 2019</a>.-->
 
 
+* * *
+
 <h1>Education</h1>
 
 * * *
@@ -64,6 +66,8 @@ layout: default
 * Statistics (Double Major)
 * <p class="thesisindent">Thesis: <i>Prediction of Customer’s Follow-on Purchase using Ensemble Methods</i>
 
+
+* * *
 
 <h1>Selected Papers <small>(*: Equal Contribution)</small></h1>
 
